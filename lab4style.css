@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h3 {
+    color: darkorange;
+    text-align: center;
+}
+
+.external-paragraph {
+    color: brown;
+    font-size: 18px;
+    text-align: center;
+}
